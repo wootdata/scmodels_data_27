@@ -1,1 +1,157 @@
-{"seq_groups": 1, "hash": "dba0740bd98e1264899b1de1de4ffcd0", "tri_count": "1206"}
+{
+	"attachments": [],
+	"bodies": [
+		{
+			"models": [
+				{
+					"name": "reference",
+					"polys": 1206,
+					"verts": 672
+				}
+			],
+			"name": "body"
+		}
+	],
+	"controllers": [
+		{
+			"bone": 14,
+			"end": 45.000000,
+			"index": 0,
+			"rest": 0,
+			"start": -45.000000,
+			"type": 8
+		}, 
+		{
+			"bone": 13,
+			"end": 45.000000,
+			"index": 0,
+			"rest": 0,
+			"start": -45.000000,
+			"type": 8
+		}
+	],
+	"events": [],
+	"id": 1414743113,
+	"md5": "dba0740bd98e1264899b1de1de4ffcd0",
+	"name": "accent.mdl",
+	"seq_groups": "1",
+	"sequences": [
+		{
+			"fps": 0.000000,
+			"frames": 20,
+			"name": "idle_1"
+		}, 
+		{
+			"fps": 0.000000,
+			"frames": 20,
+			"name": "idle_2"
+		}, 
+		{
+			"fps": 0.000000,
+			"frames": 20,
+			"name": "idle_3"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 20,
+			"name": "whlRotate"
+		}
+	],
+	"skeleton": [
+		{
+			"name": "Dummy01",
+			"parent": -1
+		}, 
+		{
+			"name": "Dummy02",
+			"parent": 0
+		}, 
+		{
+			"name": "Dummy10",
+			"parent": 1
+		}, 
+		{
+			"name": "Dummy07",
+			"parent": 2
+		}, 
+		{
+			"name": "Dummy05",
+			"parent": 1
+		}, 
+		{
+			"name": "Dummy03",
+			"parent": 1
+		}, 
+		{
+			"name": "Dummy23",
+			"parent": 0
+		}, 
+		{
+			"name": "Dummy04",
+			"parent": 6
+		}, 
+		{
+			"name": "Dummy06",
+			"parent": 6
+		}, 
+		{
+			"name": "SHOCK-LefBack",
+			"parent": 8
+		}, 
+		{
+			"name": "SHOCK-RghBack",
+			"parent": 7
+		}, 
+		{
+			"name": "WHEEL-LefBack",
+			"parent": 9
+		}, 
+		{
+			"name": "WHEEL-RghBack",
+			"parent": 10
+		}, 
+		{
+			"name": "SHOCK-RghFron",
+			"parent": 5
+		}, 
+		{
+			"name": "SHOCK-LefFron",
+			"parent": 4
+		}
+	],
+	"skins": 1,
+	"t_model": false,
+	"textures": [
+		{
+			"flags": 0,
+			"height": 512,
+			"name": "sil801.bmp",
+			"width": 512
+		}, 
+		{
+			"flags": 0,
+			"height": 256,
+			"name": "sil802.bmp",
+			"width": 512
+		}, 
+		{
+			"flags": 0,
+			"height": 256,
+			"name": "sil803.bmp",
+			"width": 512
+		}, 
+		{
+			"flags": 0,
+			"height": 256,
+			"name": "sil804.bmp",
+			"width": 512
+		}, 
+		{
+			"flags": 0,
+			"height": 512,
+			"name": "sil805.bmp",
+			"width": 256
+		}
+	],
+	"version": 10
+}
