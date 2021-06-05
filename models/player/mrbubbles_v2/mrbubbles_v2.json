@@ -1,22 +1,17 @@
 {
 	"attachments": [
 		{
-			"bone": 26,
+			"bone": 23,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 26,
+			"bone": 23,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 26,
-			"name": "",
-			"type": 0
-		}, 
-		{
-			"bone": 16,
+			"bone": 23,
 			"name": "",
 			"type": 0
 		}
@@ -25,9 +20,9 @@
 		{
 			"models": [
 				{
-					"name": "spacebiker2",
-					"polys": 2756,
-					"verts": 1489
+					"name": "mrbubbles_ASwatSMD",
+					"polys": 1328,
+					"verts": 708
 				}
 			],
 			"name": "body"
@@ -35,7 +30,7 @@
 	],
 	"controllers": [
 		{
-			"bone": 8,
+			"bone": 10,
 			"end": 30.000000,
 			"index": 0,
 			"rest": 0,
@@ -43,7 +38,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 9,
+			"bone": 11,
 			"end": 30.000000,
 			"index": 1,
 			"rest": 0,
@@ -51,7 +46,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 10,
+			"bone": 12,
 			"end": 30.000000,
 			"index": 2,
 			"rest": 0,
@@ -59,20 +54,12 @@
 			"type": 8
 		}, 
 		{
-			"bone": 11,
+			"bone": 13,
 			"end": 30.000000,
 			"index": 3,
 			"rest": 0,
 			"start": -30.000000,
 			"type": 8
-		}, 
-		{
-			"bone": 34,
-			"end": 30.000000,
-			"index": 4,
-			"rest": 0,
-			"start": 0.000000,
-			"type": 32
 		}
 	],
 	"events": [
@@ -154,30 +141,30 @@
 			"type": 0
 		}, 
 		{
-			"event": 5005,
+			"event": 5011,
 			"frame": 0,
-			"options": "muzzle_SG.txt",
+			"options": "15",
 			"sequence": 65,
 			"type": 0
 		}, 
 		{
-			"event": 5005,
+			"event": 5011,
 			"frame": 0,
-			"options": "muzzle_SG.txt",
+			"options": "15",
 			"sequence": 69,
 			"type": 0
 		}, 
 		{
-			"event": 5005,
+			"event": 5011,
 			"frame": 0,
-			"options": "muzzle_MP5.txt",
+			"options": "20",
 			"sequence": 79,
 			"type": 0
 		}, 
 		{
-			"event": 5005,
+			"event": 5011,
 			"frame": 0,
-			"options": "muzzle_MP5.txt",
+			"options": "20",
 			"sequence": 83,
 			"type": 0
 		}, 
@@ -309,8 +296,8 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "aaee2261196348fc5c350378166c614e",
-	"name": "ASD.mdl",
+	"md5": "747e6f52e227cd6532bb46eef5bed3ac",
+	"name": "mrbubbles.mdl",
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -1222,54 +1209,9 @@
 			"fps": 10.000000,
 			"frames": 1,
 			"name": "ShannonCaldwell_v1.2"
-		}, 
-		{
-			"fps": 20.000000,
-			"frames": 9,
-			"name": "barnaclehit"
-		}, 
-		{
-			"fps": 25.000000,
-			"frames": 81,
-			"name": "barnaclepull"
-		}, 
-		{
-			"fps": 18.000000,
-			"frames": 36,
-			"name": "barnaclecrunch"
-		}, 
-		{
-			"fps": 15.000000,
-			"frames": 36,
-			"name": "barnaclechew"
-		}, 
-		{
-			"fps": 10.000000,
-			"frames": 21,
-			"name": "use_console_loop"
-		}, 
-		{
-			"fps": 20.000000,
-			"frames": 201,
-			"name": "use_console_loop2"
-		}, 
-		{
-			"fps": 18.000000,
-			"frames": 66,
-			"name": "action_retina"
-		}, 
-		{
-			"fps": 12.000000,
-			"frames": 81,
-			"name": "action_studycart"
-		}, 
-		{
-			"fps": 10.000000,
-			"frames": 22,
-			"name": "action_wave"
 		}
 	],
-	"size": 1562820,
+	"size": 799848,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -1292,16 +1234,24 @@
 			"parent": 3
 		}, 
 		{
+			"name": "Bip01 L Toe0",
+			"parent": 4
+		}, 
+		{
 			"name": "Bip01 R Leg",
 			"parent": 1
 		}, 
 		{
 			"name": "Bip01 R Leg1",
-			"parent": 5
+			"parent": 6
 		}, 
 		{
 			"name": "Bip01 R Foot",
-			"parent": 6
+			"parent": 7
+		}, 
+		{
+			"name": "Bip01 R Toe0",
+			"parent": 8
 		}, 
 		{
 			"name": "Bip01 Spine",
@@ -1309,171 +1259,71 @@
 		}, 
 		{
 			"name": "Bip01 Spine1",
-			"parent": 8
-		}, 
-		{
-			"name": "Bip01 Spine2",
-			"parent": 9
-		}, 
-		{
-			"name": "Bip01 Spine3",
 			"parent": 10
 		}, 
 		{
-			"name": "Bip01 Neck",
+			"name": "Bip01 Spine2",
 			"parent": 11
 		}, 
 		{
-			"name": "Bip01 L Arm",
+			"name": "Bip01 Spine3",
 			"parent": 12
 		}, 
 		{
-			"name": "Bip01 L Arm1",
+			"name": "Bip01 Neck",
 			"parent": 13
 		}, 
 		{
-			"name": "Bip01 L Arm2",
+			"name": "Bip01 Head",
 			"parent": 14
 		}, 
 		{
-			"name": "Bip01 L Hand",
-			"parent": 15
+			"name": "Bip01 L Arm",
+			"parent": 14
 		}, 
 		{
-			"name": "Bip01 L Finger0",
+			"name": "Bip01 L Arm1",
 			"parent": 16
 		}, 
 		{
-			"name": "Bip01 L Finger01",
+			"name": "Bip01 L Arm2",
 			"parent": 17
 		}, 
 		{
-			"name": "Bip01 L Finger02",
+			"name": "Bip01 L Hand",
 			"parent": 18
 		}, 
 		{
-			"name": "Bip01 L Finger1",
-			"parent": 16
-		}, 
-		{
-			"name": "Bip01 L Finger11",
-			"parent": 20
-		}, 
-		{
-			"name": "Bip01 L Finger12",
-			"parent": 21
-		}, 
-		{
 			"name": "Bip01 R Arm",
-			"parent": 12
+			"parent": 14
 		}, 
 		{
 			"name": "Bip01 R Arm1",
-			"parent": 23
+			"parent": 20
 		}, 
 		{
 			"name": "Bip01 R Arm2",
-			"parent": 24
+			"parent": 21
 		}, 
 		{
 			"name": "Bip01 R Hand",
-			"parent": 25
-		}, 
-		{
-			"name": "Bip01 R Finger0",
-			"parent": 26
-		}, 
-		{
-			"name": "Bip01 R Finger01",
-			"parent": 27
-		}, 
-		{
-			"name": "Bip01 R Finger02",
-			"parent": 28
-		}, 
-		{
-			"name": "Bip01 R Finger1",
-			"parent": 26
-		}, 
-		{
-			"name": "Bip01 R Finger11",
-			"parent": 30
-		}, 
-		{
-			"name": "Bip01 R Finger12",
-			"parent": 31
-		}, 
-		{
-			"name": "Bip01 Head",
-			"parent": 12
-		}, 
-		{
-			"name": "mouth",
-			"parent": 33
+			"parent": 22
 		}
 	],
 	"skins": 1,
 	"t_model": false,
 	"textures": [
 		{
-			"flags": 0,
-			"height": 217,
-			"name": "ivanbody.bmp",
-			"width": 512
-		}, 
-		{
-			"flags": 0,
-			"height": 336,
-			"name": "ivanstuff.bmp",
-			"width": 512
+			"flags": 3,
+			"height": 64,
+			"name": "greenchrome.bmp",
+			"width": 64
 		}, 
 		{
 			"flags": 3,
 			"height": 64,
-			"name": "PLAYER_Chrome1.bmp",
+			"name": "bluechrome.bmp",
 			"width": 64
-		}, 
-		{
-			"flags": 0,
-			"height": 256,
-			"name": "HEV_neck.bmp",
-			"width": 256
-		}, 
-		{
-			"flags": 0,
-			"height": 256,
-			"name": "ivanhole.bmp",
-			"width": 191
-		}, 
-		{
-			"flags": 0,
-			"height": 256,
-			"name": "ivanglove.bmp",
-			"width": 235
-		}, 
-		{
-			"flags": 3,
-			"height": 64,
-			"name": "Chrome_50Gry1.bmp",
-			"width": 64
-		}, 
-		{
-			"flags": 36,
-			"height": 64,
-			"name": "screenglow.bmp",
-			"width": 128
-		}, 
-		{
-			"flags": 3,
-			"height": 64,
-			"name": "HEV_Lambda_Sign_chrome.bmp",
-			"width": 64
-		}, 
-		{
-			"flags": 0,
-			"height": 192,
-			"name": "neil_head.bmp",
-			"width": 424
 		}
 	],
 	"version": 10

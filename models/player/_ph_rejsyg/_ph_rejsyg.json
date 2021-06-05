@@ -20,7 +20,7 @@
 		{
 			"models": [
 				{
-					"name": "phHair1-B1",
+					"name": "&PH_Rejsyg_phHair1-B1",
 					"polys": 2998,
 					"verts": 1529
 				}
@@ -30,7 +30,7 @@
 		{
 			"models": [
 				{
-					"name": "phHair2-B1",
+					"name": "&PH_Rejsyg_phHair2-B1",
 					"polys": 2949,
 					"verts": 1507
 				}
@@ -40,7 +40,7 @@
 		{
 			"models": [
 				{
-					"name": "phHair3-B1",
+					"name": "&PH_Rejsyg_phHair3-B1",
 					"polys": 1384,
 					"verts": 702
 				}
@@ -50,7 +50,7 @@
 		{
 			"models": [
 				{
-					"name": "phEyes-C1",
+					"name": "&PH_Rejsyg_phEyes-C1",
 					"polys": 36,
 					"verts": 34
 				}
@@ -60,7 +60,7 @@
 		{
 			"models": [
 				{
-					"name": "phHead-C1",
+					"name": "&PH_Rejsyg_phHead-C1",
 					"polys": 1046,
 					"verts": 544
 				}
@@ -70,7 +70,7 @@
 		{
 			"models": [
 				{
-					"name": "phHands-B1",
+					"name": "&PH_Rejsyg_phHands-B1",
 					"polys": 2722,
 					"verts": 1423
 				}
@@ -80,7 +80,7 @@
 		{
 			"models": [
 				{
-					"name": "phBody-B1",
+					"name": "&PH_Rejsyg_phBody-B1",
 					"polys": 2228,
 					"verts": 1142
 				}
@@ -90,7 +90,7 @@
 		{
 			"models": [
 				{
-					"name": "phLegs-B1",
+					"name": "&PH_Rejsyg_phLegs-B1",
 					"polys": 1524,
 					"verts": 780
 				}
@@ -402,8 +402,8 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "ee29a6413db88466a006d7cd8b2a8985",
-	"name": "&PH_Rejsyg-rv9.mdl",
+	"md5": "d32a9d5eef5c6fb6da34a0b8462454e1",
+	"name": "&PH_Rejsyg.mdl",
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -1337,7 +1337,7 @@
 			"name": "barnaclechew"
 		}
 	],
-	"size": 4205724,
+	"size": 1845604,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -1433,15 +1433,15 @@
 	"textures": [
 		{
 			"flags": 0,
-			"height": 1024,
+			"height": 512,
 			"name": "body_c.bmp",
-			"width": 1024
+			"width": 512
 		}, 
 		{
 			"flags": 0,
-			"height": 1024,
+			"height": 512,
 			"name": "hair_c.bmp",
-			"width": 1024
+			"width": 512
 		}, 
 		{
 			"flags": 68,
@@ -1451,9 +1451,9 @@
 		}, 
 		{
 			"flags": 0,
-			"height": 1024,
+			"height": 512,
 			"name": "face_c.bmp",
-			"width": 1024
+			"width": 512
 		}
 	],
 	"version": 10

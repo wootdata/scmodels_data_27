@@ -1,17 +1,17 @@
 {
 	"attachments": [
 		{
-			"bone": 26,
+			"bone": 20,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 26,
+			"bone": 20,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 26,
+			"bone": 20,
 			"name": "",
 			"type": 0
 		}, 
@@ -25,12 +25,32 @@
 		{
 			"models": [
 				{
-					"name": "spacebiker2",
-					"polys": 2756,
-					"verts": 1489
+					"name": "DM_Gordon_Head1",
+					"polys": 356,
+					"verts": 215
 				}
 			],
 			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "uboa_met",
+					"polys": 80,
+					"verts": 46
+				}
+			],
+			"name": "gear"
+		}, 
+		{
+			"models": [
+				{
+					"name": "guti",
+					"polys": 2,
+					"verts": 1
+				}
+			],
+			"name": "guti"
 		}
 	],
 	"controllers": [
@@ -65,14 +85,6 @@
 			"rest": 0,
 			"start": -30.000000,
 			"type": 8
-		}, 
-		{
-			"bone": 34,
-			"end": 30.000000,
-			"index": 4,
-			"rest": 0,
-			"start": 0.000000,
-			"type": 32
 		}
 	],
 	"events": [
@@ -309,8 +321,8 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "aaee2261196348fc5c350378166c614e",
-	"name": "ASD.mdl",
+	"md5": "39f80fff3a338cf83ff960e8734a023b",
+	"name": "uboac_rampage2_p4.mdl",
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -1269,7 +1281,7 @@
 			"name": "action_wave"
 		}
 	],
-	"size": 1562820,
+	"size": 904108,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -1340,76 +1352,20 @@
 			"parent": 15
 		}, 
 		{
-			"name": "Bip01 L Finger0",
-			"parent": 16
-		}, 
-		{
-			"name": "Bip01 L Finger01",
-			"parent": 17
-		}, 
-		{
-			"name": "Bip01 L Finger02",
-			"parent": 18
-		}, 
-		{
-			"name": "Bip01 L Finger1",
-			"parent": 16
-		}, 
-		{
-			"name": "Bip01 L Finger11",
-			"parent": 20
-		}, 
-		{
-			"name": "Bip01 L Finger12",
-			"parent": 21
-		}, 
-		{
 			"name": "Bip01 R Arm",
 			"parent": 12
 		}, 
 		{
 			"name": "Bip01 R Arm1",
-			"parent": 23
+			"parent": 17
 		}, 
 		{
 			"name": "Bip01 R Arm2",
-			"parent": 24
+			"parent": 18
 		}, 
 		{
 			"name": "Bip01 R Hand",
-			"parent": 25
-		}, 
-		{
-			"name": "Bip01 R Finger0",
-			"parent": 26
-		}, 
-		{
-			"name": "Bip01 R Finger01",
-			"parent": 27
-		}, 
-		{
-			"name": "Bip01 R Finger02",
-			"parent": 28
-		}, 
-		{
-			"name": "Bip01 R Finger1",
-			"parent": 26
-		}, 
-		{
-			"name": "Bip01 R Finger11",
-			"parent": 30
-		}, 
-		{
-			"name": "Bip01 R Finger12",
-			"parent": 31
-		}, 
-		{
-			"name": "Bip01 Head",
-			"parent": 12
-		}, 
-		{
-			"name": "mouth",
-			"parent": 33
+			"parent": 19
 		}
 	],
 	"skins": 1,
@@ -1417,63 +1373,33 @@
 	"textures": [
 		{
 			"flags": 0,
-			"height": 217,
-			"name": "ivanbody.bmp",
-			"width": 512
+			"height": 253,
+			"name": "dm_base.bmp",
+			"width": 252
 		}, 
 		{
 			"flags": 0,
-			"height": 336,
-			"name": "ivanstuff.bmp",
-			"width": 512
+			"height": 8,
+			"name": "black.bmp",
+			"width": 8
 		}, 
 		{
-			"flags": 3,
-			"height": 64,
-			"name": "PLAYER_Chrome1.bmp",
-			"width": 64
+			"flags": 0,
+			"height": 1,
+			"name": "remapc_001_001_255.bmp",
+			"width": 4
+		}, 
+		{
+			"flags": 0,
+			"height": 111,
+			"name": "helmet.bmp",
+			"width": 148
 		}, 
 		{
 			"flags": 0,
 			"height": 256,
-			"name": "HEV_neck.bmp",
+			"name": "guti.bmp",
 			"width": 256
-		}, 
-		{
-			"flags": 0,
-			"height": 256,
-			"name": "ivanhole.bmp",
-			"width": 191
-		}, 
-		{
-			"flags": 0,
-			"height": 256,
-			"name": "ivanglove.bmp",
-			"width": 235
-		}, 
-		{
-			"flags": 3,
-			"height": 64,
-			"name": "Chrome_50Gry1.bmp",
-			"width": 64
-		}, 
-		{
-			"flags": 36,
-			"height": 64,
-			"name": "screenglow.bmp",
-			"width": 128
-		}, 
-		{
-			"flags": 3,
-			"height": 64,
-			"name": "HEV_Lambda_Sign_chrome.bmp",
-			"width": 64
-		}, 
-		{
-			"flags": 0,
-			"height": 192,
-			"name": "neil_head.bmp",
-			"width": 424
 		}
 	],
 	"version": 10

@@ -1,22 +1,17 @@
 {
 	"attachments": [
 		{
-			"bone": 26,
+			"bone": 22,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 26,
+			"bone": 22,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 26,
-			"name": "",
-			"type": 0
-		}, 
-		{
-			"bone": 16,
+			"bone": 19,
 			"name": "",
 			"type": 0
 		}
@@ -25,15 +20,51 @@
 		{
 			"models": [
 				{
-					"name": "spacebiker2",
-					"polys": 2756,
-					"verts": 1489
+					"name": "bm_hgrunt_regular_hgrunt_opforf_HECU_Body",
+					"polys": 3134,
+					"verts": 1669
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "bm_hgrunt_regular_hgrunt_opforf_HECU_Regular",
+					"polys": 4211,
+					"verts": 1277
+				}
+			],
+			"name": "heads"
+		}, 
+		{
+			"models": [
+				{
+					"name": "bm_hgrunt_regular_hgrunt_opforf_HECU_Gloves",
+					"polys": 1140,
+					"verts": 580
 				}
 			],
 			"name": "body"
 		}
 	],
 	"controllers": [
+		{
+			"bone": 21,
+			"end": 17.500000,
+			"index": 4,
+			"rest": 0,
+			"start": 0.000000,
+			"type": 32
+		}, 
+		{
+			"bone": 19,
+			"end": 15.000000,
+			"index": 0,
+			"rest": 0,
+			"start": -15.000000,
+			"type": 8
+		}, 
 		{
 			"bone": 8,
 			"end": 30.000000,
@@ -65,14 +96,6 @@
 			"rest": 0,
 			"start": -30.000000,
 			"type": 8
-		}, 
-		{
-			"bone": 34,
-			"end": 30.000000,
-			"index": 4,
-			"rest": 0,
-			"start": 0.000000,
-			"type": 32
 		}
 	],
 	"events": [
@@ -309,8 +332,8 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "aaee2261196348fc5c350378166c614e",
-	"name": "ASD.mdl",
+	"md5": "60819d5ef01c9dea4f9d06b5f63bb834",
+	"name": "bm_hgrunt_white2.mdl",
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -1269,7 +1292,7 @@
 			"name": "action_wave"
 		}
 	],
-	"size": 1562820,
+	"size": 2250688,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -1332,84 +1355,40 @@
 			"parent": 13
 		}, 
 		{
-			"name": "Bip01 L Arm2",
-			"parent": 14
-		}, 
-		{
-			"name": "Bip01 L Hand",
-			"parent": 15
-		}, 
-		{
-			"name": "Bip01 L Finger0",
-			"parent": 16
-		}, 
-		{
-			"name": "Bip01 L Finger01",
-			"parent": 17
-		}, 
-		{
-			"name": "Bip01 L Finger02",
-			"parent": 18
-		}, 
-		{
-			"name": "Bip01 L Finger1",
-			"parent": 16
-		}, 
-		{
-			"name": "Bip01 L Finger11",
-			"parent": 20
-		}, 
-		{
-			"name": "Bip01 L Finger12",
-			"parent": 21
-		}, 
-		{
 			"name": "Bip01 R Arm",
 			"parent": 12
 		}, 
 		{
 			"name": "Bip01 R Arm1",
-			"parent": 23
+			"parent": 15
+		}, 
+		{
+			"name": "Bip01 L Arm2",
+			"parent": 14
 		}, 
 		{
 			"name": "Bip01 R Arm2",
-			"parent": 24
-		}, 
-		{
-			"name": "Bip01 R Hand",
-			"parent": 25
-		}, 
-		{
-			"name": "Bip01 R Finger0",
-			"parent": 26
-		}, 
-		{
-			"name": "Bip01 R Finger01",
-			"parent": 27
-		}, 
-		{
-			"name": "Bip01 R Finger02",
-			"parent": 28
-		}, 
-		{
-			"name": "Bip01 R Finger1",
-			"parent": 26
-		}, 
-		{
-			"name": "Bip01 R Finger11",
-			"parent": 30
-		}, 
-		{
-			"name": "Bip01 R Finger12",
-			"parent": 31
+			"parent": 16
 		}, 
 		{
 			"name": "Bip01 Head",
 			"parent": 12
 		}, 
 		{
-			"name": "mouth",
-			"parent": 33
+			"name": "E_lids",
+			"parent": 19
+		}, 
+		{
+			"name": "Mouth",
+			"parent": 19
+		}, 
+		{
+			"name": "Bip01 R Hand",
+			"parent": 18
+		}, 
+		{
+			"name": "Bip01 L Hand",
+			"parent": 17
 		}
 	],
 	"skins": 1,
@@ -1417,63 +1396,45 @@
 	"textures": [
 		{
 			"flags": 0,
-			"height": 217,
-			"name": "ivanbody.bmp",
+			"height": 512,
+			"name": "Body.bmp",
 			"width": 512
 		}, 
 		{
 			"flags": 0,
-			"height": 336,
-			"name": "ivanstuff.bmp",
+			"height": 512,
+			"name": "Skin1.bmp",
 			"width": 512
 		}, 
 		{
-			"flags": 3,
-			"height": 64,
-			"name": "PLAYER_Chrome1.bmp",
-			"width": 64
+			"flags": 0,
+			"height": 128,
+			"name": "Eye_White.bmp",
+			"width": 128
 		}, 
 		{
 			"flags": 0,
-			"height": 256,
-			"name": "HEV_neck.bmp",
+			"height": 128,
+			"name": "Glass2.bmp",
 			"width": 256
 		}, 
 		{
 			"flags": 0,
-			"height": 256,
-			"name": "ivanhole.bmp",
-			"width": 191
+			"height": 512,
+			"name": "Goggle2.bmp",
+			"width": 512
+		}, 
+		{
+			"flags": 0,
+			"height": 512,
+			"name": "Gasmask.bmp",
+			"width": 512
 		}, 
 		{
 			"flags": 0,
 			"height": 256,
-			"name": "ivanglove.bmp",
-			"width": 235
-		}, 
-		{
-			"flags": 3,
-			"height": 64,
-			"name": "Chrome_50Gry1.bmp",
-			"width": 64
-		}, 
-		{
-			"flags": 36,
-			"height": 64,
-			"name": "screenglow.bmp",
-			"width": 128
-		}, 
-		{
-			"flags": 3,
-			"height": 64,
-			"name": "HEV_Lambda_Sign_chrome.bmp",
-			"width": 64
-		}, 
-		{
-			"flags": 0,
-			"height": 192,
-			"name": "neil_head.bmp",
-			"width": 424
+			"name": "Gloves.bmp",
+			"width": 512
 		}
 	],
 	"version": 10
