@@ -1,0 +1,59 @@
+{
+	"attachments": [],
+	"bodies": [
+		{
+			"models": [
+				{
+					"name": "chair",
+					"polys": 120,
+					"verts": 80
+				}
+			],
+			"name": "studio"
+		}
+	],
+	"controllers": [],
+	"events": [
+		{
+			"event": 1000,
+			"frame": 1,
+			"options": "",
+			"sequence": 1,
+			"type": 0
+		}
+	],
+	"id": 1414743113,
+	"md5": "1beb9ec5ea23729d54df82a8bb23d025",
+	"name": "chair.mdl",
+	"seq_groups": "1",
+	"sequences": [
+		{
+			"fps": 30.000000,
+			"frames": 1,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 27.000000,
+			"frames": 21,
+			"name": "slide"
+		}
+	],
+	"size": 38752,
+	"skeleton": [
+		{
+			"name": "chair",
+			"parent": -1
+		}
+	],
+	"skins": 1,
+	"t_model": false,
+	"textures": [
+		{
+			"flags": 0,
+			"height": 128,
+			"name": "chair.BMP",
+			"width": 256
+		}
+	],
+	"version": 10
+}
