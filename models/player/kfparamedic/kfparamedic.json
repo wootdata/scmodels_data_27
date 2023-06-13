@@ -1,17 +1,17 @@
 {
 	"attachments": [
 		{
-			"bone": 21,
+			"bone": 13,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 21,
+			"bone": 13,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 21,
+			"bone": 13,
 			"name": "",
 			"type": 0
 		}, 
@@ -25,17 +25,77 @@
 		{
 			"models": [
 				{
-					"name": "sas",
-					"polys": 1403,
-					"verts": 768
+					"name": "00",
+					"polys": 112,
+					"verts": 128
 				}
 			],
-			"name": "body"
+			"name": "CyborgNinja"
+		}, 
+		{
+			"models": [
+				{
+					"name": "01",
+					"polys": 1489,
+					"verts": 792
+				}
+			],
+			"name": "CyborgNinja"
+		}, 
+		{
+			"models": [
+				{
+					"name": "02",
+					"polys": 1572,
+					"verts": 907
+				}
+			],
+			"name": "CyborgNinja"
+		}, 
+		{
+			"models": [
+				{
+					"name": "03",
+					"polys": 1318,
+					"verts": 772
+				}
+			],
+			"name": "CyborgNinja"
+		}, 
+		{
+			"models": [
+				{
+					"name": "04",
+					"polys": 2048,
+					"verts": 1297
+				}
+			],
+			"name": "CyborgNinja"
+		}, 
+		{
+			"models": [
+				{
+					"name": "05",
+					"polys": 1141,
+					"verts": 615
+				}
+			],
+			"name": "CyborgNinja"
+		}, 
+		{
+			"models": [
+				{
+					"name": "06",
+					"polys": 2005,
+					"verts": 1066
+				}
+			],
+			"name": "CyborgNinja"
 		}
 	],
 	"controllers": [
 		{
-			"bone": 8,
+			"bone": 4,
 			"end": 30.000000,
 			"index": 0,
 			"rest": 0,
@@ -43,7 +103,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 9,
+			"bone": 5,
 			"end": 30.000000,
 			"index": 1,
 			"rest": 0,
@@ -51,7 +111,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 10,
+			"bone": 6,
 			"end": 30.000000,
 			"index": 2,
 			"rest": 0,
@@ -59,7 +119,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 11,
+			"bone": 7,
 			"end": 30.000000,
 			"index": 3,
 			"rest": 0,
@@ -301,8 +361,8 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "f922a68c96e26a74d468997dfc3d0839",
-	"name": "RE_UMBRELLA_Hunk.mdl",
+	"md5": "7e1aaf6436446e5926fbfe2a4b0d2d26",
+	"name": "C:\\svencoop modific\\KF\\Nueva carpeta (3)\\CyborgNinja.mdl",
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -1216,7 +1276,7 @@
 			"name": "ShannonCaldwell_v1.2"
 		}
 	],
-	"size": 1121652,
+	"size": 1248420,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -1231,24 +1291,8 @@
 			"parent": 1
 		}, 
 		{
-			"name": "Bip01 L Leg1",
-			"parent": 2
-		}, 
-		{
-			"name": "Bip01 L Foot",
-			"parent": 3
-		}, 
-		{
 			"name": "Bip01 R Leg",
 			"parent": 1
-		}, 
-		{
-			"name": "Bip01 R Leg1",
-			"parent": 5
-		}, 
-		{
-			"name": "Bip01 R Foot",
-			"parent": 6
 		}, 
 		{
 			"name": "Bip01 Spine",
@@ -1256,31 +1300,47 @@
 		}, 
 		{
 			"name": "Bip01 Spine1",
-			"parent": 8
+			"parent": 4
 		}, 
 		{
 			"name": "Bip01 Spine2",
-			"parent": 9
+			"parent": 5
 		}, 
 		{
 			"name": "Bip01 Spine3",
-			"parent": 10
+			"parent": 6
 		}, 
 		{
 			"name": "Bip01 Neck",
-			"parent": 11
-		}, 
-		{
-			"name": "Bip01 Head",
-			"parent": 12
+			"parent": 7
 		}, 
 		{
 			"name": "Bip01 L Arm",
+			"parent": 8
+		}, 
+		{
+			"name": "Bip01 R Arm",
+			"parent": 8
+		}, 
+		{
+			"name": "Bip01 R Arm1",
+			"parent": 10
+		}, 
+		{
+			"name": "Bip01 R Arm2",
+			"parent": 11
+		}, 
+		{
+			"name": "Bip01 R Hand",
 			"parent": 12
 		}, 
 		{
+			"name": "Bip01 Head",
+			"parent": 8
+		}, 
+		{
 			"name": "Bip01 L Arm1",
-			"parent": 14
+			"parent": 9
 		}, 
 		{
 			"name": "Bip01 L Arm2",
@@ -1291,19 +1351,19 @@
 			"parent": 16
 		}, 
 		{
-			"name": "Bip01 R Arm",
-			"parent": 12
+			"name": "Bip01 R Leg1",
+			"parent": 3
 		}, 
 		{
-			"name": "Bip01 R Arm1",
+			"name": "Bip01 R Foot",
 			"parent": 18
 		}, 
 		{
-			"name": "Bip01 R Arm2",
-			"parent": 19
+			"name": "Bip01 L Leg1",
+			"parent": 2
 		}, 
 		{
-			"name": "Bip01 R Hand",
+			"name": "Bip01 L Foot",
 			"parent": 20
 		}
 	],
@@ -1312,21 +1372,9 @@
 	"textures": [
 		{
 			"flags": 0,
-			"height": 512,
-			"name": "SAS_body.bmp",
-			"width": 512
-		}, 
-		{
-			"flags": 0,
-			"height": 256,
-			"name": "SAS_head.bmp",
-			"width": 256
-		}, 
-		{
-			"flags": 3,
-			"height": 64,
-			"name": "SAS_chrome.bmp",
-			"width": 64
+			"height": 500,
+			"name": "40c67323.bmp",
+			"width": 500
 		}
 	],
 	"version": 10
