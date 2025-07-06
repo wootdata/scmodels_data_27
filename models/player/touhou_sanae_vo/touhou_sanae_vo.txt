@@ -1,3 +1,14 @@
+----------------------
+polys_vo.txt
+----------------------
+i would decrease the amount of polys on this model, because it clearly doesnt deserve this many with such low amount of detail...
+but i dont think anyone would use this blocky model from 2001 anyways, so it gonna be just a waste of time.
+	- Ryor
+
+
+----------------------
+touhou_sanae.txt
+----------------------
 Credit:
  .mqo modeling by milchio
 
