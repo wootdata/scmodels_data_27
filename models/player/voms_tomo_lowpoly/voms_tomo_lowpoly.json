@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -640,7 +641,11 @@
 	],
 	"id": 1414743113,
 	"md5": "d3be8e2649f2621c194bda0fdb3b6376",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "player/VOMS_Tomo_LowPoly/VOMS_Tomo_LowPoly.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

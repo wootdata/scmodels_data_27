@@ -43,6 +43,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 22,
@@ -313,7 +314,11 @@
 	],
 	"id": 1414743113,
 	"md5": "3eda7d5fa6f4b764e21c00a475022ea1",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "bluecoat3.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -58,6 +58,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -328,7 +329,11 @@
 	],
 	"id": 1414743113,
 	"md5": "8ba741a8260b885d86eb5abc59a7b1a4",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "TC_alternat-Dr.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

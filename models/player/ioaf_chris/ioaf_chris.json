@@ -93,6 +93,7 @@
 			"name": "equip"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -363,7 +364,11 @@
 	],
 	"id": 1414743113,
 	"md5": "a6400899afc7b760808af8ea61769ba9",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "ioaf_chris.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

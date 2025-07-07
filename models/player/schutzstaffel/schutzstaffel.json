@@ -38,6 +38,7 @@
 			"name": "backpack"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
 	"date": 1424150577,
 	"events": [
@@ -282,7 +283,11 @@
 	],
 	"id": 1414743113,
 	"md5": "62b74ceb6d9ca74cd6109344b161277d",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "gign.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -33,6 +33,7 @@
 			"name": "Cream_the_rabbit"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 13,
@@ -370,7 +371,11 @@
 	],
 	"id": 1414743113,
 	"md5": "4b86822b62e750677f606d3e32770217",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "cream.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

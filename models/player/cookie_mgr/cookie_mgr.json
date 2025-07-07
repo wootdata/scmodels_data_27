@@ -213,6 +213,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -878,7 +879,11 @@
 	],
 	"id": 1414743113,
 	"md5": "ee1e4119039d34d246a9f38c294fac97",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Cookie_MGR.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

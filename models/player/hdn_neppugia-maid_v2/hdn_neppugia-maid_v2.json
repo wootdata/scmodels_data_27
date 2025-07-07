@@ -52,6 +52,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -764,7 +765,11 @@
 	],
 	"id": 1414743113,
 	"md5": "ea448bd3bd6a33e0391b5174a29e28a6",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "HDN_Neppugia-maid.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

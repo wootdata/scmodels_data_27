@@ -303,6 +303,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -583,7 +584,11 @@
 	],
 	"id": 1414743113,
 	"md5": "e364fc59d595a8109175e2a4b529c9ca",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "arkk_rhmare.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

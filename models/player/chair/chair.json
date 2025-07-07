@@ -12,6 +12,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
 	"date": 1662292414,
 	"events": [
@@ -25,7 +26,11 @@
 	],
 	"id": 1414743113,
 	"md5": "1beb9ec5ea23729d54df82a8bb23d025",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "chair.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

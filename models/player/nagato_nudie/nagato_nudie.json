@@ -153,6 +153,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -818,7 +819,11 @@
 	],
 	"id": 1414743113,
 	"md5": "b00e181a69f9635091df4c6c9fc27333",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "nagato_xmas_topless.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

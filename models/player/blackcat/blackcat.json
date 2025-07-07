@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -177,7 +178,11 @@
 	],
 	"id": 1414743113,
 	"md5": "4b8980327864828ee67740588f97ecc7",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\SIERRA\\Half-Life\\valve\\models\\player\\blackcat\\blackcat.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -43,6 +43,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -313,7 +314,11 @@
 	],
 	"id": 1414743113,
 	"md5": "1dce3d402bb6f0f4c367bf5eb41ddc7c",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "nekomata_skirt_d.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

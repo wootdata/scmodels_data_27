@@ -32,6 +32,7 @@
 			"name": "head"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -302,7 +303,11 @@
 	],
 	"id": 1414743113,
 	"md5": "d8abee5dc4a651faf8109638b2dfe0eb",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "nepnep.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

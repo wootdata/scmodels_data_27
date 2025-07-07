@@ -58,6 +58,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -342,7 +343,11 @@
 	],
 	"id": 1414743113,
 	"md5": "db5ae34cd1117a88f7c5d27f7d7a8c46",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "test.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

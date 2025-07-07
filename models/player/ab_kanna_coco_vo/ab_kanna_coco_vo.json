@@ -243,6 +243,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -562,7 +563,11 @@
 	],
 	"id": 1414743113,
 	"md5": "427ae74295b9a397d342f84ecdd130a7",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "ab_kanna_coco.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

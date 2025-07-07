@@ -108,6 +108,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -426,7 +427,11 @@
 	],
 	"id": 1414743113,
 	"md5": "239e1dff6a9663aab6ac044971ba9bbf",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Users\\Batidillo\\Desktop\\supermodels\\KC_Takao_N_v2\\KC_Takao_N_ ",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -83,6 +83,7 @@
 			"name": "david_maneyro"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -353,7 +354,11 @@
 	],
 	"id": 1414743113,
 	"md5": "9bec29a6af2280b81aab6022794cfc93",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Light_Yagami.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

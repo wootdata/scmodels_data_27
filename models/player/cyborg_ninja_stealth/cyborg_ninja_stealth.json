@@ -43,6 +43,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -313,7 +314,11 @@
 	],
 	"id": 1414743113,
 	"md5": "e50776b9936ec7694c80636feade9df1",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Cyborg_Ninja_Stealth.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

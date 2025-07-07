@@ -43,6 +43,7 @@
 			"name": "leg"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -313,7 +314,11 @@
 	],
 	"id": 1414743113,
 	"md5": "39df6b3a415494505678c71f67bdcbc5",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "bot_light.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

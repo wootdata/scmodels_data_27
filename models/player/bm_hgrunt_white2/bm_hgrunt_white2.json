@@ -48,6 +48,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 21,
@@ -334,7 +335,11 @@
 	],
 	"id": 1414743113,
 	"md5": "60819d5ef01c9dea4f9d06b5f63bb834",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "bm_hgrunt_white2.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

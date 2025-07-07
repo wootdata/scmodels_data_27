@@ -302,6 +302,7 @@
 			"name": "bip01"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 9,
@@ -564,7 +565,11 @@
 	],
 	"id": 1414743113,
 	"md5": "c7d3a0bfab0f3fe0c8b0b1509b5934d0",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "AE86Trueno.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

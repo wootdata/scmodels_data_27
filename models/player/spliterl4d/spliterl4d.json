@@ -38,6 +38,7 @@
 			"name": "projectZ"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -308,7 +309,11 @@
 	],
 	"id": 1414743113,
 	"md5": "61c1f9182255903d89ee3ceb0b0a1210",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "VOCALOID_Miku.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

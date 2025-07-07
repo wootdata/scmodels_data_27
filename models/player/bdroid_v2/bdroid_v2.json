@@ -28,6 +28,7 @@
 			"name": "fix"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -256,7 +257,11 @@
 	],
 	"id": 1414743113,
 	"md5": "021364239ff5d96136cf257332e73584",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "bdroid.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

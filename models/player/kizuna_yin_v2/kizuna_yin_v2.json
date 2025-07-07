@@ -223,6 +223,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -951,7 +952,11 @@
 	],
 	"id": 1414743113,
 	"md5": "8aa00a639c533baa34f1db27a61fcbd3",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "kizuna_yin_v2.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

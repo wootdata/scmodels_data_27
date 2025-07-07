@@ -163,6 +163,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -441,7 +442,11 @@
 	],
 	"id": 1414743113,
 	"md5": "bec33e7841b60643cfc1f3b865dd0b66",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "youmu_test.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

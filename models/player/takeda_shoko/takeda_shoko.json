@@ -33,6 +33,7 @@
 			"name": "Takeda_Shoko"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -640,7 +641,11 @@
 	],
 	"id": 1414743113,
 	"md5": "a15d92529e55b7d64463c8c0a37e6566",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Player/Takeda_Shoko/Takeda_Shoko.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

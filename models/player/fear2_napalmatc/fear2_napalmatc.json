@@ -53,6 +53,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -323,7 +324,11 @@
 	],
 	"id": 1414743113,
 	"md5": "a7f9e3bd19dc3d02a82d8a6b65f47420",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "fear2_NapalmATC.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

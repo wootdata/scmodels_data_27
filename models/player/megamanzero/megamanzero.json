@@ -103,6 +103,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 6,
@@ -373,7 +374,11 @@
 	],
 	"id": 1414743113,
 	"md5": "96ad9a021db0e77739ba7819b8437be7",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "MegamanZero.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

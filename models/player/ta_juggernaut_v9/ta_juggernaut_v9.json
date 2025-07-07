@@ -73,6 +73,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 2,
@@ -343,7 +344,11 @@
 	],
 	"id": 1414743113,
 	"md5": "6993e859ea9dc1a5760a18de70349eb7",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "ta_Juggernaut_2.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

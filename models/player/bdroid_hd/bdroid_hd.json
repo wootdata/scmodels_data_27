@@ -33,6 +33,7 @@
 			"name": "fix"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "532e895eee0725df8357164f12d63ba7",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "bdroid_HD.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

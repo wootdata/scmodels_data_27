@@ -33,6 +33,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 26,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "80cd2c48dc34ccb1fc2dc4c14f292c6c",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "civilgordon.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

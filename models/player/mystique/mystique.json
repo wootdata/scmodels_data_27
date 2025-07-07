@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 14,
@@ -172,7 +173,11 @@
 	],
 	"id": 1414743113,
 	"md5": "9bd41ddfbcdb9c10cbfc419f7c9d7c21",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "player/MajorK/MajorK.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

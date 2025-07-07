@@ -33,6 +33,7 @@
 			"name": "Hunk4"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "b2c378c2ea578167e2394d28a0db8daf",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "RE_Outbreak_Alyssa.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

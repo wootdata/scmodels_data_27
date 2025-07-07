@@ -38,6 +38,7 @@
 			"name": "weapons"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -308,7 +309,11 @@
 	],
 	"id": 1414743113,
 	"md5": "a9d859169f79128945203f3ae2b3c851",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "mp_old.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -93,6 +93,7 @@
 			"name": "gatiito_sc"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -363,7 +364,11 @@
 	],
 	"id": 1414743113,
 	"md5": "4e4c6a707268004dc170927bb30f47ff",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "GS_MikuPanda.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

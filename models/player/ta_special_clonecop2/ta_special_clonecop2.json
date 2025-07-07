@@ -53,6 +53,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 10,
@@ -512,7 +513,11 @@
 	],
 	"id": 1414743113,
 	"md5": "b491d4a11aa4e47b86439d432c239dba",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "clone_cop.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

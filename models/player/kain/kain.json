@@ -53,6 +53,7 @@
 			"name": "Collar"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -323,7 +324,11 @@
 	],
 	"id": 1414743113,
 	"md5": "da300d0f6f735f854fae46018d6d9d03",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Kain.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

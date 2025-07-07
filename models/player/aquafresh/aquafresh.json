@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 12,
@@ -737,7 +738,11 @@
 	],
 	"id": 1414743113,
 	"md5": "79b0c65fb82f18f26e11e6a8f2ffbdb0",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Models\\AquaFresh.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{
