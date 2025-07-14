@@ -301,6 +301,7 @@
 	"md5": "8dd469b98fb6d69c02a19ee219656e2b",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 6,
 	"name": "../compiled/cs_leet.mdl",
 	"preview": true,
 	"readme": false,

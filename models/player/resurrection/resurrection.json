@@ -306,6 +306,7 @@
 	"md5": "08bf50686cb2d946402b25dc0ef6079e",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 6,
 	"name": "resurrection.mdl",
 	"preview": true,
 	"readme": true,

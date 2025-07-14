@@ -306,6 +306,7 @@
 	"md5": "372deb8d3fa5f71461296d0975b07277",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 6,
 	"name": "compile_mutant.mdl",
 	"preview": true,
 	"readme": false,
